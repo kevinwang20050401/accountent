@@ -1,0 +1,19 @@
+title{
+	color:black;
+	text-align: center;
+}
+#add{
+	border-radius: 12px;
+    background-color: gold;
+    border: 2px solid black;
+}
+#search{
+	border-radius: 12px;
+    background-color: gold;
+    border: 2px solid black;
+}
+#near{
+	border-radius: 12px;
+    background-color: gold;
+    border: 2px solid black;
+}
