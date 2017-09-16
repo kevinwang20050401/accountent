@@ -1,6 +1,6 @@
 var fdb = new ForerunnerDB();
 var db = fdb.db("mydb");
-var accountingCollection = db.collection("students");
+var accountingCollection = db.collection("accounting");
 accountingCollection.load();
 $("#sub").click(function(){
 	var date=$("#date").val();

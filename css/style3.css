@@ -1,12 +1,20 @@
 body{
     background-color:black;
-    text-align: center;
-    }
-p{
-    text-align: center;
-    color:white;
 }
-#sub{
+p{
+text-align: center;
+color:white;
+}
+span{
+	color:white;
+}
+thead{
+	color:blue;
+}
+tbody{
+	color:gold;
+}
+#lookup{
 	color:blue;
 	border: 3px solid white;
 	background-color: gold;
